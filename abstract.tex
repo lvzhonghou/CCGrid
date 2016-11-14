@@ -1,0 +1,9 @@
+\begin{abstract}
+MapReduce has been proved to be a successful programming model for big data processing. An accurate performance model has significant implication for optimizing the performance of MapReduce applications, which highly relies on the accurate anatomy of the execution process of a MapReduce application.
+To speedup the processing of a MapReduce job, parallelism between multiple phases inside the task is widely employed in Hadoop and this parallelism is closely related to a set of configuration parameters at the same time.
+Surprisingly we find that existing works on the MapReduce performance model scarcely consider the multi-phase parallelism, and most of efforts simply divide the task into a sequential flow, such as read, map, spill and merge inside the map task.
+In this work, we propose a performance model for MapReduce applications, MR. Prophet, by fully incorporating the multi-phase parallelism inside the task into the model.
+We also design and implement a lightweight performance instrumentation tool, LTrace, to collect some application and system specific statistical data so as to instantiate the model for an application.
+Finally, we have conducted a set of experimental evaluation of our model with HiBench workload.
+The results illustrate that MR. Prophet can achieve very high prediction accuracy and greatly outperforms the comparing model, for example, our model can achieve above 94\% accuracy for WordCount, TeraSort and PageRank jobs.
+\end{abstract}
