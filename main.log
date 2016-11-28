@@ -1,10 +1,13 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2016.1.13)  14 NOV 2016 11:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.11)  28 NOV 2016 21:35
 entering extended mode
-**D:/Research/小论文/paperRepo/CCGrid/main.tex
-(D:/Research/小论文/paperRepo/CCGrid/main.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for loaded.
-(D:\Research\小论文\paperRepo\CCGrid\IEEEtran.cls
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./IEEEtran.cls
 Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
@@ -15,7 +18,7 @@ Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-(D:\CTEX\MiKTeX\tex\latex\psnfss\ot1ptm.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -88,73 +91,73 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count90
 \@IEEEtranrubishbin=\box26
-) (D:\CTEX\MiKTeX\tex\latex\graphics\graphicx.sty
-Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\CTEX\MiKTeX\tex\latex\graphics\keyval.sty
-Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(D:\CTEX\MiKTeX\tex\latex\graphics\graphics.sty
-Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\CTEX\MiKTeX\tex\latex\graphics\trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(D:\CTEX\MiKTeX\tex\latex\00miktex\graphics.cfg
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 96.
 
-(D:\CTEX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(D:\CTEX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(D:\CTEX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
-Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count91
 ))
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(D:\CTEX\MiKTeX\tex\latex\ams\math\amsmath.sty
-Package: amsmath 2000/07/18 v2.13 AMS math features
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(D:\CTEX\MiKTeX\tex\latex\ams\math\amstext.sty
-Package: amstext 2000/06/29 v2.01
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
 
-(D:\CTEX\MiKTeX\tex\latex\ams\math\amsgen.sty
-File: amsgen.sty 1999/11/30 v2.0
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen119
 ))
-(D:\CTEX\MiKTeX\tex\latex\ams\math\amsbsy.sty
-Package: amsbsy 1999/11/29 v1.2d
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen120
 )
-(D:\CTEX\MiKTeX\tex\latex\ams\math\amsopn.sty
-Package: amsopn 1999/12/14 v2.01 operator names
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
-LaTeX Info: Redefining \frac on input line 211.
+LaTeX Info: Redefining \frac on input line 199.
 \uproot@=\count93
 \leftroot@=\count94
-LaTeX Info: Redefining \overline on input line 307.
+LaTeX Info: Redefining \overline on input line 297.
 \classnum@=\count95
 \DOTSCASE@=\count96
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box27
 \strutbox@=\box28
 \big@size=\dimen121
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count97
 \c@MaxMatrixCols=\count98
 \dotsspace@=\muskip10
@@ -175,14 +178,14 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \multlinegap=\skip45
 \multlinetaggap=\skip46
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
 )
-(D:\CTEX\MiKTeX\tex\latex\algorithms\algorithm.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithms/algorithm.sty
 Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
 nment
 
-(D:\CTEX\MiKTeX\tex\latex\float\float.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count104
 \float@exts=\toks21
@@ -190,13 +193,13 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks22
 \@floatcapt=\box30
 )
-(D:\CTEX\MiKTeX\tex\latex\base\ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \@float@every@algorithm=\toks23
 \c@algorithm=\count105
 )
-(D:\CTEX\MiKTeX\tex\latex\algorithmicx\algorithmicx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
 Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
 
 Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
@@ -210,11 +213,13 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \c@ALG@storecount=\count111
 \c@ALG@tmpcounter=\count112
 \ALG@tmplength=\skip49
-) (D:\CTEX\MiKTeX\tex\latex\algorithmicx\algpseudocode.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
 Package: algpseudocode 
 
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (D:\Research\小论文\paperRepo\CCGrid\main.aux)
+) (./main.aux)
+\openout1 = `main.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 354.
 LaTeX Font Info:    ... okay on input line 354.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 354.
@@ -228,7 +233,7 @@ LaTeX Font Info:    ... okay on input line 354.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 354.
 LaTeX Font Info:    ... okay on input line 354.
 
-(D:\CTEX\MiKTeX\tex\context\base\supp-pdf.mkii
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
 \scratchdimen=\dimen128
@@ -241,7 +246,52 @@ LaTeX Font Info:    ... okay on input line 354.
 \MPnumerator=\count117
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.jpeg,.png,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 401.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -250,7 +300,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 401.
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 401.
 
- (D:\CTEX\MiKTeX\tex\latex\psnfss\omsptm.fd
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
@@ -259,19 +310,16 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <7> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
 LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 401.
-
-(D:\Research\小论文\paperRepo\CCGrid\abstract.tex)
-(D:\Research\小论文\paperRepo\CCGrid\introduction.tex
+ (./abstract.tex) (./introduction.tex
 Underfull \hbox (badness 1831) in paragraph at lines 2--7
-[]\OT1/ptm/m/n/10 In re-cen-t years, with the rapid de-vel-op-men-t of e-
+[]\OT1/ptm/m/n/10 In re-cent years, with the rapid de-vel-op-ment of e-
  []
 
-[1{D:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}}
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ])
-(D:\Research\小论文\paperRepo\CCGrid\execution.tex
-<Job.pdf, id=11, 722.7pt x 394.07024pt>
+(./execution.tex <Job.pdf, id=12, 722.7pt x 394.07024pt>
 File: Job.pdf Graphic file (type pdf)
  <use Job.pdf>
 Package pdftex.def Info: Job.pdf used on input line 6.
@@ -281,100 +329,166 @@ Overfull \hbox (2.20049pt too wide) in paragraph at lines 6--7
  [][] 
  []
 
-) (D:\Research\小论文\paperRepo\CCGrid\profiler.tex [2 <D:/Research/小论�
-�/paperRepo/CCGrid/Job.pdf>] <profiler.pdf, id=36, 606.04408pt x 422.52354pt>
+) (./profiler.tex [2 <./Job.pdf>]
+<profiler.pdf, id=37, 606.04408pt x 422.52354pt>
 File: profiler.pdf Graphic file (type pdf)
-
-<use profiler.pdf>
+ <use profiler.pdf>
 Package pdftex.def Info: profiler.pdf used on input line 14.
 (pdftex.def)             Requested size: 227.61737pt x 156.49243pt.
-) (D:\Research\小论文\paperRepo\CCGrid\model.tex [3 <D:/Research/小论文/p
-aperRepo/CCGrid/profiler.pdf>]
-<mapandspill.pdf, id=59, 517.83968pt x 305.86671pt>
+)
+(./model.tex [3 <./profiler.pdf>]
+<mapandspill.pdf, id=60, 517.83968pt x 305.86671pt>
 File: mapandspill.pdf Graphic file (type pdf)
  <use mapandspill.pdf>
 Package pdftex.def Info: mapandspill.pdf used on input line 21.
 (pdftex.def)             Requested size: 227.62102pt x 128.03842pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 42.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
 
-[4 <D:/Research/小论文/paperRepo/CCGrid/mapandspill.pdf>]
-Overfull \hbox (8.04578pt too wide) in paragraph at lines 82--82
+Underfull \hbox (badness 3199) in paragraph at lines 29--30
+[]\OT1/ptm/b/n/10 The cost of map func-tion's sin-gle ex-e-cu-tion
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 40.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 40.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\OT1/ptm/m/n/10 it's es-sen-tial to ac-cu-rately pre-dict the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\OML/cmm/m/it/10 cSpillCost$\OT1/ptm/m/n/10 , $\OML/cmm/m/it/10 cLastSpillCost$
+\OT1/ptm/m/n/10 , $\OML/cmm/m/it/10 cMapCost$ \OT1/ptm/m/n/10 and the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
+ \OT1/ptm/m/it/10 where the $\OML/cmm/m/it/10 dRecsPerSpill$\OT1/ptm/m/it/10 , 
+$\OML/cmm/m/it/10 dRecsPerSpill$ \OT1/ptm/m/it/10 and
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 67--70
+\OT1/ptm/m/it/10 above, and the $\OML/cmm/m/it/10 csSortCost[]$\OT1/ptm/m/it/10
+ , $\OML/cmm/m/it/10 csComCost[]$ \OT1/ptm/m/it/10 and the
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 67--70
+\OML/cmm/m/it/10 csWriCost[]$ \OT1/ptm/m/it/10 are re-spec-tively the cost stat
+is-tics about
+ []
+
+[4 <./mapandspill.pdf>]
+Underfull \hbox (badness 3364) in paragraph at lines 118--120
+[]\OT1/ptm/m/n/10 When the above as-sump-tion is ten-able, the main
+ []
+
+
+Overfull \hbox (15.47336pt too wide) in paragraph at lines 155--155
 [] 
  []
 
-<shuffle.pdf, id=85, 569.055pt x 246.1165pt>
-File: shuffle.pdf Graphic file (type pdf)
- <use shuffle.pdf>
-Package pdftex.def Info: shuffle.pdf used on input line 197.
-(pdftex.def)             Requested size: 256.08105pt x 128.03764pt.
 
-Overfull \hbox (12.1698pt too wide) in paragraph at lines 197--198
- [][] 
+Overfull \hbox (22.34714pt too wide) in paragraph at lines 172--172
+[] 
  []
 
-[5]
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 217--220
+
+./model.tex:181: LaTeX Error: \begin{document} ended by \end{small}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.181 \end{small}
+                 
+? 
+./model.tex:181: Emergency stop.
+ ...                                              
+                                                  
+l.181 \end{small}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 3440 strings out of 493014
+ 51446 string characters out of 6133350
+ 125630 words of memory out of 5000000
+ 6930 multiletter control sequences out of 15000+600000
+ 36485 words of font info for 70 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 38i,16n,23p,1269b,336s stack positions out of 5000i,500n,10000p,200000b,80000s
+./model.tex:181:  ==> Fatal error occurred, no output PDF file produced!
+<use status.pdf>
+Package pdftex.def Info: status.pdf used on input line 235.
+(pdftex.def)             Requested size: 219.08627pt x 49.79298pt.
+
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 245--248
 []
  []
 
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 217--220
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 245--248
 [] 
  []
 
+[6 <./shuffle.pdf> <./status.pdf
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--251
-[] \OT1/ptm/m/sc/10 Up-date-Copy-Dest\OT1/ptm/m/n/10 ($\OML/cmm/m/it/10 indexDe
-st;$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--266
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./status.pdf): PDF inclusion
+: multiple pdfs with page group included in a single page
+>]
+Underfull \hbox (badness 10000) in paragraph at lines 269--270
 [] $\OML/cmm/m/it/10 T[] \OMS/cmsy/m/n/10   \OML/cmm/m/it/10 T[] \OT1/cmr/m/n/1
-0 + []($
+0 +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
 [] $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Outs[];$
  []
 
 
-Overfull \hbox (9.03374pt too wide) in paragraph at lines 290--291
+Overfull \hbox (9.03374pt too wide) in paragraph at lines 288--289
 [] 
  []
 
+) (./experiment.tex
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <D:/Research/小论文/paperRepo/CCGrid/shuffle.pdf>])
-(D:\Research\小论文\paperRepo\CCGrid\experiment.tex
+ [7]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
+(Font)              <8> on input line 33.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] <split.pdf, id=109, 361.35pt x 216.81pt>
+<split.pdf, id=152, 361.35pt x 216.81pt>
 File: split.pdf Graphic file (type pdf)
  <use split.pdf>
-Package pdftex.def Info: split.pdf used on input line 150.
+Package pdftex.def Info: split.pdf used on input line 153.
 (pdftex.def)             Requested size: 241.84961pt x 142.27127pt.
  [8])
-(D:\Research\小论文\paperRepo\CCGrid\related.tex
+Underfull \vbox (badness 1009) has occurred while \output is active []
 
-LaTeX Warning: Citation `Herodotos2011¡°' on page 9 undefined on input line 2
-.
 
-) (D:\Research\小论文\paperRepo\CCGrid\conclusion.tex [9 <D:/Research/小论
-文/paperRepo/CCGrid/split.pdf>])
-(D:\Research\小论文\paperRepo\CCGrid\main.bbl
+(./related.tex
+
+LaTeX Warning: Citation `Herodotos2011' on page 9 undefined on input line 2.
+
+) [9 <./split.pdf>] (./conclusion.tex) (./main.bbl
 Missing character: There is no � in font ptmri7t!
 Missing character: There is no � in font ptmri7t!
-)
+
+Underfull \hbox (badness 2903) in paragraph at lines 79--82
+[]\OT1/ptm/m/n/9 T. Nykiel, M. Potamias, C. Mishra, G. Kol-lios, and
+ []
+
+[10])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -386,34 +500,42 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[10] (D:\Research\小论文\paperRepo\CCGrid\main.aux)
+[11
+
+] (./main.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3162 strings out of 495354
- 45646 string characters out of 3183859
- 125781 words of memory out of 3000000
- 6288 multiletter control sequences out of 15000+200000
- 44789 words of font info for 82 fonts, out of 3000000 for 9000
- 17 hyphenation exceptions out of 8191
- 30i,18n,21p,1920b,377s stack positions out of 5000i,500n,10000p,200000b,50000s
-{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/CTEX/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmex10.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmm
-i10.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/CTEX/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/CTEX/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi7.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><
-D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/CTEX/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr9.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/CTEX/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/CTEX/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy9.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CT
-EX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/tim
-es/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (10 pages, 762105 bytes).
+ 3552 strings out of 493014
+ 52796 string characters out of 6133350
+ 142713 words of memory out of 5000000
+ 7018 multiletter control sequences out of 15000+600000
+ 44789 words of font info for 82 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 38i,18n,23p,1873b,375s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/tim
+es/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a
+.pfb>
+Output written on main.pdf (11 pages, 1109952 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
+ 234 PDF objects out of 1000 (max. 8388607)
+ 166 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -18,8 +18,17 @@
 \@writefile{toc}{\contentsline {section}{\numberline {IV}An Accurate Performance Model}{3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}The Cost Model For Map Task}{3}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The Interaction between Map and Spill}}{4}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}The Cost Model For Reduce Task}{5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The Execution Procedure of Shuffle}}{6}}
+n between Map and Spill}}{4}}
+\newlabel{fig:inter}{{3}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The Actual Cost of the Map and Spill(the main thread doesn't sleep)}}{4}}
+\newlabel{fig:act}{{4}{4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The Actual Cost of the Map and Spill(the main thread sleeps)}}{5}}
+\newlabel{sleeps}{{5}{5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}The Cost Model For Reduce Task}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces The Execution Procedure of Shuffle}}{6}}
+\newlabel{fig:proce}{{6}{6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces The State Transition Graph of the Shuffle}}{6}}
+\newlabel{fig:state}{{7}{6}}
 \citation{Herodotou2011Profiling}
 \citation{Vavilapalli2013Apache}
 \citation{Huang2010The}
@@ -27,19 +36,22 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-A}}Experiment Setup}{7}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {V-B}}The Accuracy of the New Model}{7}}
 \@writefile{lot}{\contentsline {table}{\numberline {I}{\ignorespaces The Prediction Accuracy of the MapReduce job's execution time}}{8}}
+\newlabel{tab:tpa}{{I}{8}}
 \@writefile{lot}{\contentsline {table}{\numberline {II}{\ignorespaces The Prediction Accuracy of the Map Task's execution time }}{8}}
-\@writefile{lot}{\contentsline {table}{\numberline {III}{\ignorespaces The Prediction Accuracy of the Reduce Task's execution time }}{8}}
+\newlabel{mapexe}{{II}{8}}
 \citation{Herodotou2011Profiling}
-\citation{Herodotos2011¡°}
+\citation{Herodotos2011}
 \citation{Shi2014MRTuner}
 \citation{Wang2009A}
 \citation{Nykiel2010MRShare}
 \citation{Song2013A}
 \citation{Lin2012A}
 \citation{Teng2011SimMapReduce}
-\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The prediction for the map tasks with various split size}}{9}}
+\@writefile{lot}{\contentsline {table}{\numberline {III}{\ignorespaces The Prediction Accuracy of the Reduce Task's execution time }}{9}}
+\newlabel{tab:reduce}{{III}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces The prediction for the map tasks with various split size}}{9}}
+\newlabel{fig:map}{{8}{9}}
 \@writefile{toc}{\contentsline {section}{\numberline {VI}Related Work}{9}}
-\@writefile{toc}{\contentsline {section}{\numberline {VII}Conclusion}{9}}
 \citation{Nambiar2006The}
 \citation{Ghazal2013BigBench}
 \bibstyle{IEEEtran}
@@ -61,4 +73,5 @@
 \bibcite{Teng2011SimMapReduce}{15}
 \bibcite{Nambiar2006The}{16}
 \bibcite{Ghazal2013BigBench}{17}
+\@writefile{toc}{\contentsline {section}{\numberline {VII}Conclusion}{10}}
 \@writefile{toc}{\contentsline {section}{References}{10}}
